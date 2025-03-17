@@ -1,6 +1,6 @@
 # AI-Driven Transformer Routing with Dynamic Repair Estimation 
 
-This Streamlit web application optimizes transformer grid routing by integrating sensor data, asset geometry, and meter information. It leverages an AI model via Ollama to compute rectification steps and complexity scores for failing assets. The application then computes both a default sequential route (based solely on spatial proximity) and a locally rerouted flow that uses a pool of "unused" assets for replacements.
+This Streamlit web application optimizes asset (Substation-transformer) grid routing by integrating sensor data, asset geometry, and meter information. It leverages an AI model via Ollama to compute rectification steps and complexity scores for failing assets. The application then computes both a default sequential route (based solely on spatial proximity) and a locally rerouted flow that uses a pool of "unused" assets for replacements.
 
 ---
 
