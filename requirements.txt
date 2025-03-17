@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit_folium
+ollama
+numpy
+faiss-cpu
+PyPDF2
+sentence-transformers
